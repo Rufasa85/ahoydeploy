@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ahoydeploy/static/css/main.06cfc7be.chunk.css",
+    "main.js": "/ahoydeploy/static/js/main.b50c8cb9.chunk.js",
+    "main.js.map": "/ahoydeploy/static/js/main.b50c8cb9.chunk.js.map",
+    "runtime-main.js": "/ahoydeploy/static/js/runtime-main.a7d0ed1a.js",
+    "runtime-main.js.map": "/ahoydeploy/static/js/runtime-main.a7d0ed1a.js.map",
+    "static/js/2.16831ac6.chunk.js": "/ahoydeploy/static/js/2.16831ac6.chunk.js",
+    "static/js/2.16831ac6.chunk.js.map": "/ahoydeploy/static/js/2.16831ac6.chunk.js.map",
+    "index.html": "/ahoydeploy/index.html",
+    "precache-manifest.a90000b48f07aba3544884be17e39341.js": "/ahoydeploy/precache-manifest.a90000b48f07aba3544884be17e39341.js",
+    "service-worker.js": "/ahoydeploy/service-worker.js",
+    "static/css/main.06cfc7be.chunk.css.map": "/ahoydeploy/static/css/main.06cfc7be.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7d0ed1a.js",
+    "static/js/2.16831ac6.chunk.js",
+    "static/css/main.06cfc7be.chunk.css",
+    "static/js/main.b50c8cb9.chunk.js"
+  ]
+}
